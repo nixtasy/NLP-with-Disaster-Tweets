@@ -52,7 +52,7 @@ But, it’s not always clear whether a person’s words are actually announcing 
 <!-- ROADMAP -->
 ## Roadmap
 
-- [ ] Build a baseline version of tweet classifer with BERT sentence classifier without using keyword and location attributes
+- [x] Build a baseline version of tweet classifer with BERT sentence classifier without using keyword and location attributes
 - [ ] Utilize keyword and location attributes for higher accuracy
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
