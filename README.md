@@ -72,7 +72,7 @@ Distributed under the MIT License. See `LICENSE.txt` for more information.
 
 Tianxiang Wang  - tianxiang.wang@nixtasy.com
 
-Project Link: [https://github.com/nixtasy/music-search/](https://github.com/nixtasy/music-search/)
+[Project Link](https://github.com/nixtasy/NLP-with-Disaster-Tweets)
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
