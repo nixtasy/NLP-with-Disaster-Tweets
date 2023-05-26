@@ -28,6 +28,7 @@
     <li>
       <a href="#about-the-project">About The Project</a>
     </li>
+    <li><a href="#model">Model</a></li>
     <li><a href="#roadmap">Roadmap</a></li>
     <li><a href="#license">License</a></li>
     <li><a href="#contact">Contact</a></li>
@@ -50,7 +51,7 @@ But, it’s not always clear whether a person’s words are actually announcing 
 <!-- Model -->
 ## Model
 
-Model Card [distilbert-base-uncased](https://huggingface.co/nixtasy/diaster_distilbert_base_uncased)
+Model Card: [diaster_distilbert_base_uncased](https://huggingface.co/nixtasy/diaster_distilbert_base_uncased)
 
 
 Training Hyperparameters:
