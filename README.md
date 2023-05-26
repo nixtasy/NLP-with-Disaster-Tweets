@@ -47,6 +47,22 @@ But, it’s not always clear whether a person’s words are actually announcing 
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
+<!-- Model -->
+## Model
+
+
+Training Hyperparameters:
+
+|           model          | learning rate | epochs | batch size |
+|--------------------------|---------------|--------|------------|
+| distilbert-base-uncased  |      2e-5     |    3   |     16     |
+
+Performance:
+
+| Accuracy | validation |  test  |
+|----------|------------|--------|
+|          |   0.83519  | 0.8265 |
+
 
 
 <!-- ROADMAP -->
