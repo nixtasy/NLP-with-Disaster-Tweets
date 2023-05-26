@@ -50,6 +50,8 @@ But, it’s not always clear whether a person’s words are actually announcing 
 <!-- Model -->
 ## Model
 
+Model Card [distilbert-base-uncased](https://huggingface.co/nixtasy/diaster_distilbert_base_uncased)
+
 
 Training Hyperparameters:
 
