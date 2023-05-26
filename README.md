@@ -82,6 +82,12 @@ Tianxiang Wang  - tianxiang.wang@nixtasy.com
 ## Useful Links
 
 * [Real or Not? NLP with Disaster Tweets (Classification using Google BERT)](https://levelup.gitconnected.com/real-or-not-nlp-with-disaster-tweets-classification-using-google-bert-76d2702807b4)
+* [NLP with Disaster Tweets - EDA, Cleaning and BERT](https://www.kaggle.com/code/gunesevitan/nlp-with-disaster-tweets-eda-cleaning-and-bert/notebook)
+* [Tips on using keyword and location?](https://www.kaggle.com/c/nlp-getting-started/discussion/123343)
+* [Topic Modeling with BERT](https://medium.com/@angelamarieteng/topic-modeling-with-bert-2e3218723373)
+* [Text Classification](https://huggingface.co/docs/transformers/tasks/sequence_classification)
+* [Triple Branch BERT Siamese Network for fake news classification on LIAR-PLUS dataset](https://github.com/manideep2510/siamese-BERT-fake-news-detection-LIAR)
+* [https://www.kaggle.com/code/philculliton/nlp-getting-started-tutorial/notebook](https://www.kaggle.com/code/philculliton/nlp-getting-started-tutorial/notebook)
 
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
